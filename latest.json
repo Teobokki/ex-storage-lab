@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "url": "https://github.com/Teobokki/ex-storage-lab/releases/download/v1.0.0/EX.STORAGE.LAB.Setup.1.0.0.exe",
+  "installer_url": "https://github.com/Teobokki/ex-storage-lab/releases/download/v1.0.0/EX.STORAGE.LAB.Setup.1.0.0.exe",
+  "full_url": "https://github.com/Teobokki/ex-storage-lab/releases/download/v1.0.0/EX.STORAGE.LAB.1.0.0.Windows.x64.zip",
+  "portable_url": "https://github.com/Teobokki/ex-storage-lab/releases/download/v1.0.0/EX.STORAGE.LAB.1.0.0.Windows.x64.zip",
+  "release_url": "https://github.com/Teobokki/ex-storage-lab/releases/tag/v1.0.0",
+  "notes": "EX STORAGE LAB 1.0.0: frees up storage but always asks first. Drive usage, Temp, Recycle Bin, browser caches, thumbnails/dumps/error reports, app caches, old installers, Large Files and Duplicate Files finders. Nothing is deleted until you tick it and confirm; Move to Recycle Bin by default."
+}
